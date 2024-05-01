@@ -3,5 +3,5 @@
   "version": "1.0.0",
   "displayName": "Folder Generator Tool",
   "description": "A tool to create default folder structures in Unity projects",
-  "unity": "2022.3.27"
+  "unity": "2022.3"
 } 
